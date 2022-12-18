@@ -13,7 +13,7 @@ DevelopTool=AQT
 [Actions]
 Action0=Action0\Script.mts
 Launch App=Action1\Script.mts
-Login2=Action2\Script.mts
+LoginAgain=Action2\Script.mts
 Book Flight=Action3\Script.mts
 Select Flight=Action4\Script.mts
 Order Flight=Action5\Script.mts
